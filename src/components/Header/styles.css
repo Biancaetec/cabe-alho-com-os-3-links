@@ -1,0 +1,38 @@
+.header {
+    background-color: #333;
+    color:#fff;
+    padding: 10px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.menu_esquerda{
+    display: flex;
+    align-items: center;
+}
+.logo{
+    width: 70px;
+    padding-right: 10px;
+}
+.itens_navegacao{
+
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+}
+.itens_navegacao li{
+    width: 100px;
+    text-align: center;   
+    text-decoration: none;
+
+}
+.itens_navegacao li a{
+   color:#fff;
+   text-decoration: none;
+}
+.itens_navegacao li a:hover{
+   font-weight: bold;
+
+}
