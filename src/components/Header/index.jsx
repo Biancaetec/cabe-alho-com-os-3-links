@@ -8,7 +8,7 @@ export const Header = () => {
         <header className="header">
             <div className="menu_esquerda">
                 <img src={logo} alt="logotipo do website" className="logo" />
-                <h1>Resumo Fácil</h1>
+                <h1>Resumo fácil</h1>
             </div>
 
             <div className="menu_direita">
